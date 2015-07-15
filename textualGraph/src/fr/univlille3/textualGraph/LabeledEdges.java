@@ -1,6 +1,7 @@
 package fr.univlille3.textualGraph;
 
 import java.util.ArrayList;
+
 import org.jgrapht.*;
 import org.jgrapht.graph.*;
 
